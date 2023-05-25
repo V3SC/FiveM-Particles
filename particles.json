@@ -2,7 +2,6 @@
   {
     "DictionaryName": "core",
     "EffectNames": [
-          "exp_xs_mine_spike",
       "bul_gravel_heli",
       "ent_dst_concrete_large",
       "bul_wood_splinter",
@@ -11,37 +10,23 @@
       "ent_dst_gen_gobstop",
       "ent_dst_inflate_ball",
       "exp_grd_plane_post",
-
-
-
-
       "blood_stab",
       "ent_brk_metal_frag",
       "bul_water_heli",
-
       "ent_sht_water_tower",
       "bul_hay",
-
       "bul_sand_loose_heli",
       "ent_sht_beer_barrel",
       "veh_sub_crush",
       "ent_anim_paparazzi_flash",
-
       "exp_grd_petrol_pump",
-
-
       "exp_air_molotov",
       "ent_anim_snot_blow",
-
       "mel_carmetal",
       "bul_concrete",
       "ent_anim_cig_exhale_mth_car",
       "exp_air_rpg_lod",
-
-
-
       "water_splash_vehicle",
-
       "ent_dst_wood_chunky",
       "td_blood_shotgun",
       "exp_grd_grenade_smoke",
@@ -2635,11 +2620,9 @@
     "DictionaryName": "scr_safehouse",
     "EffectNames": [
       "scr_sh_cig_exhale_nose",
-
       "scr_sh_lighter_flame",
       "scr_sh_cig_exhale_mouth",
       "scr_sh_lighter_sparks",
-
     ]
   },
   {
