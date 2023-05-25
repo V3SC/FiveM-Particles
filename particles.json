@@ -2594,7 +2594,6 @@
     "DictionaryName": "scr_rcpaparazzo1",
     "EffectNames": [
       "scr_mich4_firework_burst_spawn",
-      "scr_rcpap1_smoke_vent",
       "scr_mich4_firework_trailburst",
       "scr_rcpap1_champ_slosh",
       "scr_mich4_firework_starburst",
@@ -2636,11 +2635,11 @@
     "DictionaryName": "scr_safehouse",
     "EffectNames": [
       "scr_sh_cig_exhale_nose",
-      "scr_sh_cig_smoke",
+
       "scr_sh_lighter_flame",
       "scr_sh_cig_exhale_mouth",
       "scr_sh_lighter_sparks",
-      "scr_sh_bong_smoke"
+
     ]
   },
   {
@@ -2717,7 +2716,7 @@
   {
     "DictionaryName": "scr_indep_parachute",
     "EffectNames": [
-      "mp_parachute_smoke_indep"
+
     ]
   },
   {
@@ -2793,7 +2792,7 @@
       "cs_bigscr_muz_ar",
       "cs_bigscr_beer_spray",
       "cs_bigscr_eject_auto",
-      "cs_bigscr_cig_smoke",
+
       "cs_bigscr_muz_smg",
       "cs_bigscr_cig_exhale_mouth",
       "cut_bigscr_vomit"
@@ -2911,7 +2910,7 @@
       "water_boat_wash",
       "water_boat_prop",
       "wheel_fric_hard",
-      "cs_pac_fin_skid_smoke",
+
       "water_boat_dinghy_bow"
     ]
   },
@@ -2919,8 +2918,7 @@
     "DictionaryName": "cut_prison_break",
     "EffectNames": [
       "cs_cig_exhale_mouth",
-      "cs_cig_smoke_inhale",
-      "cs_cig_smoke",
+
       "cs_cig_exhale_nose"
     ]
   },
@@ -2998,12 +2996,11 @@
       "cut_hs3f_dust_motes",
       "cut_hs3f_blood_entry",
       "cut_hs3f_exp_vault",
-      "cut_hs3f_exp_tunnel",
-      "cut_hs3f_esc_skid_smoke",
+
       "cut_hs3f_muz_pistol",
       "sp_cut_hs3f_exp_vault_r",
       "cut_hs3f_muz_smg",
-      "cut_hs3f_cig_smoke",
+
       "cut_hs3f_ceiling_debris",
       "sp_cut_hs3f_ceiling_debris",
       "cut_hs3f_tunnel_collapse",
@@ -3138,7 +3135,7 @@
     "EffectNames": [
       "scr_sm_con_trans",
       "scr_sm_con_trans_fp",
-      "scr_sm_trans_smoke"
+
     ]
   },
   {
@@ -3269,14 +3266,13 @@
     "EffectNames": [
       "ent_anim_cig_exhale_mth_car",
       "ent_anim_cig_exhale_nse_car",
-      "ent_anim_cig_smoke_car"
+
     ]
   },
   {
     "DictionaryName": "scr_ar_planes",
     "EffectNames": [
-      "scr_ar_trail_smoke_slow",
-      "scr_ar_trail_smoke"
+
     ]
   },
   {
@@ -3291,7 +3287,7 @@
   {
     "DictionaryName": "scr_as_trans",
     "EffectNames": [
-      "scr_as_trans_smoke"
+
     ]
   },
   {
@@ -3313,7 +3309,7 @@
       "scr_ba_bb_flare",
       "scr_ba_bb_package_flare",
       "scr_ba_bb_leaflet_drop",
-      "scr_ba_bb_plane_smoke_trail"
+
     ]
   },
   {
@@ -3328,8 +3324,7 @@
       "scr_ba_club_drink_pour",
       "scr_ba_club_drink_pour_splash",
       "scr_ba_club_champagne_spray",
-      "scr_ba_club_smoke_machine",
-      "scr_ba_club_smoke"
+
     ]
   },
   {
@@ -3393,10 +3388,10 @@
     "EffectNames": [
       "scr_adversary_ped_light_good",
       "scr_adversary_wheel_lightning",
-      "scr_adversary_weap_smoke",
+
       "scr_adversary_weap_glow",
       "scr_adversary_ped_light_bad",
-      "scr_adversary_gunsmith_weap_smoke",
+
       "scr_adversary_judgement_lens_dirt",
       "scr_adversary_trail_lightning",
       "scr_adversary_foot_flames",
