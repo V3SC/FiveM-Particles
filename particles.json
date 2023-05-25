@@ -3117,8 +3117,7 @@
     "DictionaryName": "scr_sm_trans",
     "EffectNames": [
       "scr_sm_con_trans",
-      "scr_sm_con_trans_fp",
-
+      "scr_sm_con_trans_fp"
     ]
   },
   {
@@ -3248,8 +3247,7 @@
     "DictionaryName": "scr_director_mode",
     "EffectNames": [
       "ent_anim_cig_exhale_mth_car",
-      "ent_anim_cig_exhale_nse_car",
-
+      "ent_anim_cig_exhale_nse_car"
     ]
   },
   {
@@ -3291,8 +3289,7 @@
     "EffectNames": [
       "scr_ba_bb_flare",
       "scr_ba_bb_package_flare",
-      "scr_ba_bb_leaflet_drop",
-
+      "scr_ba_bb_leaflet_drop"
     ]
   },
   {
@@ -3306,8 +3303,7 @@
     "EffectNames": [
       "scr_ba_club_drink_pour",
       "scr_ba_club_drink_pour_splash",
-      "scr_ba_club_champagne_spray",
-
+      "scr_ba_club_champagne_spray"
     ]
   },
   {
